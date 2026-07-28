@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Elyhus on elyhus</title>
-		<link>http://localhost:1313/authors/elyhus/</link>
-		<description>Recent content in Elyhus on elyhus</description>
+		<title>Music Learning on elyhus</title>
+		<link>http://localhost:1313/tags/music-learning/</link>
+		<description>Recent content in Music Learning on elyhus</description>
 		<generator>Hugo</generator>
 		<language>en</language>
 		
@@ -12,20 +12,13 @@
 		
 			<lastBuildDate>Tue, 28 Jul 2026 13:42:29 +0800</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/authors/elyhus/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/music-learning/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>MUSIC LEARNING</title>
 				<link>http://localhost:1313/posts/music01/</link>
 				<pubDate>Tue, 28 Jul 2026 13:42:29 +0800</pubDate>
 				<guid>http://localhost:1313/posts/music01/</guid>
 				<description>&lt;h1 id=&#34;strat-learning-music&#34;&gt;&#xA;  Strat learning music&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#strat-learning-music&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;this is the begin day&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>HELLO MY BLOG</title>
-				<link>http://localhost:1313/posts/hello-my-blog/</link>
-				<pubDate>Mon, 27 Jul 2026 22:07:22 +0800</pubDate>
-				<guid>http://localhost:1313/posts/hello-my-blog/</guid>
-				<description>&lt;h1 id=&#34;hello-my-blog&#34;&gt;&#xA;  HELLO MY BLOG&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#hello-my-blog&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;this is the first blog&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

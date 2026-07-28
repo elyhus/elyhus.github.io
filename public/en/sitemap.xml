@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/authors/</loc>
-    <lastmod>2026-07-27T22:07:22+08:00</lastmod>
+    <lastmod>2026-07-28T13:42:29+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,11 +15,8 @@
                 href="http://localhost:1313/pt-br/authors/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/blog/</loc>
-    <lastmod>2026-07-27T22:07:22+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-07-27T22:07:22+08:00</lastmod>
+    <lastmod>2026-07-28T13:42:29+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -32,7 +29,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-07-27T22:07:22+08:00</lastmod>
+    <lastmod>2026-07-28T13:42:29+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -45,15 +42,40 @@
                 />
   </url><url>
     <loc>http://localhost:1313/authors/elyhus/</loc>
+    <lastmod>2026-07-28T13:42:29+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/music/</loc>
+    <lastmod>2026-07-28T13:42:29+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/music-learning/</loc>
+    <lastmod>2026-07-28T13:42:29+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/music01/</loc>
+    <lastmod>2026-07-28T13:42:29+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-07-28T13:42:29+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-07-28T13:42:29+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/blog/</loc>
     <lastmod>2026-07-27T22:07:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/series/hello/</loc>
     <lastmod>2026-07-27T22:07:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/hello-my-blog/</loc>
-    <lastmod>2026-07-27T22:07:22+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2026-07-27T22:07:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/series/</loc>
@@ -67,19 +89,6 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="http://localhost:1313/pt-br/series/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-07-27T22:07:22+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/"
                 />
   </url><url>
     <loc>http://localhost:1313/categories/test/</loc>
