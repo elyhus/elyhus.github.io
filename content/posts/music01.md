@@ -12,3 +12,7 @@ series = []
 +++
 # Strat learning music
 this is the begin day
+## Route
+1.music theory and composition
+2.music production
+3.(optional,music cs develop) Computer Music / Audio Engineering
